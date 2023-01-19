@@ -1,0 +1,19 @@
+{
+  "name": "estrutura-de-dados-e-algoritimos",
+  "version": "1.0.0",
+  "description": "Códigos desenvolvidos durante o estudo de estrutura de dados e algoritmos com js, baseado no livro \"Estrutura de dados e algoritmos com JavaScript - 2° Edição\" Autora - Loiane Groner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagocalvi/estrutura-de-dados-e-algoritimos-js.git"
+  },
+  "author": "Thiago Calvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagocalvi/estrutura-de-dados-e-algoritimos-js/issues"
+  },
+  "homepage": "https://github.com/thiagocalvi/estrutura-de-dados-e-algoritimos-js#readme"
+}
